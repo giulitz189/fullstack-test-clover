@@ -11,5 +11,11 @@
     "read:any": ["*"],
     "update:any": ["*"],
     "delete:any": ["*"]
+  },
+  "transactions": {
+    "create:any": ["*"],
+    "read:any": ["*"],
+    "update:any": ["*"],
+    "delete:any": ["*"]
   }
 }

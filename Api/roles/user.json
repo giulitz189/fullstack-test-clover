@@ -5,5 +5,9 @@
   },
   "companies": {
     "read": ["*"]
+  },
+  "transactions": {
+    "create": ["*"],
+    "read": ["*"]
   }
 }
